@@ -28,6 +28,8 @@ Sigue estos pasos:
 3. Extrae el archivo en tu computadora
 4. Coloca la carpeta dentro de tu proyecto
 
+👉 (Descargar aquí)[https://github.com/alexroel/mi-web-recursos/archive/refs/heads/main.zip]
+
 ### 🔹 Opción 2: Clonar con Git
 
 Si ya tienes Git instalado, puedes ejecutar:
